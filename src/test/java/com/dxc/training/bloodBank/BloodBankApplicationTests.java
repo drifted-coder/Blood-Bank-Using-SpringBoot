@@ -1,4 +1,4 @@
-package com.cognizant.training.bloodBank;
+package com.dxc.training.bloodBank;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
